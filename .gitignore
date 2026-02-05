@@ -1,6 +1,7 @@
+.gitignore
 /frontend/node_modules
-database.sql       # optional, if you don't want to commit DB dump
+database.sql
 README.md
 TEST_USERS.md
-*.log              # optionally ignore logs
-.env               # ignore environment files
+*.log
+.env
