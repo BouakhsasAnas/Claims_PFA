@@ -1,0 +1,6 @@
+/frontend/node_modules
+database.sql       # optional, if you don't want to commit DB dump
+README.md
+TEST_USERS.md
+*.log              # optionally ignore logs
+.env               # ignore environment files
