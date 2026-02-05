@@ -1,8 +1,0 @@
-.gitignore
-/frontend/node_modules
-database.sql
-README.md
-TEST_USERS.md
-*.log
-.env
-
